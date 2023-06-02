@@ -24,25 +24,3 @@ p {
 .background-video #videobg {
     width: 100%;
 }
-
-ul {
-    position: relative;
-    left: 3em;
-    font-family: serif;
-    font-size: 2em;
-    text-decoration: none;
-    list-style-type: none;
-}
-
-a {
-    background-color: aliceblue;
-    color: black;
-}
-
-a:link {
-    text-decoration: none;
-}
-
-a:visited {
-    text-decoration: none;
-}
